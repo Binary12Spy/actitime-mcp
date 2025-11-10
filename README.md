@@ -43,7 +43,7 @@ You can use this project directly in VSCode with GitHub Copilot for automation a
       "command": "npx",
       "args": [
         "-y",
-        "@actitime/mcp-server",
+        "@binary12spy/actitime-mcp",
         "${input:actitime_company}"
       ],
       "env": {
